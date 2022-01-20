@@ -10,4 +10,4 @@ There is no in-built customization whatsoever. The sound can be changed by repla
 
 I've created this addon mainly after being annoyed with automatically and absent-mindedly buffing friendly players which are PvP flagged - PvP-flagging myself in the process.
 
-As usual, be sure to remove -master suffix from the folder name so that the addon install location is: `..\Interface\AddOns\MouseOverSounds_PvP`
+As usual, be sure to remove the suffix from the downloaded folder name so that the addon install location is: `..\Interface\AddOns\MouseOverSounds_PvP`
